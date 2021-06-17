@@ -15,9 +15,9 @@ function MainContent(): JSX.Element {
     <main>
       <section>
         <h2>About Me</h2>
-        <p>Hi! My name is Nichard Rg. 
-
-          Ok this is the new edit on the branch as required for the exercise.
+        <p>
+          Hi! My name is Nichard Rg. Ok this is the new edit on the branch as
+          required for the exercise.
         </p>
         <p>
           I currently live in {location.city}, {location.country}.
